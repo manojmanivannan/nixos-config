@@ -20,7 +20,7 @@
         se = "sudoedit";
         microfetch = "microfetch && echo";
 
-        gs = "git status";
+        gst = "git status";
         ga = "git add";
         gc = "git commit";
         gp = "git push";
