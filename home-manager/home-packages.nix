@@ -9,12 +9,7 @@
     code-cursor
     imv
     mpv
-    obs-studio
-    obsidian
     pavucontrol
-    teams-for-linux
-    telegram-desktop
-    vesktop
 
     # CLI utils
     bc
